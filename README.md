@@ -1,4 +1,4 @@
-<h2>A local program that allows students to leverage AI when studying.</h1>
+<h2>A program that allows students to leverage AI when studying.</h1>
 <p>This program parses files and scrapes them for text which is then used in a local LLM.</p>
 <strong>Features:</strong>
 <ol>
